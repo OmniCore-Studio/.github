@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- 🖼️ Remplace par ta bannière : upload-la dans .github/profile/banner.png -->
-<img src="profile/banner.png" alt="OmniCore Studio" width="100%" />
+<img src="https://i.imgur.com/HvT8wtL.png" alt="OmniCore Studio" width="100%" />
 
 # 🐝 OmniCore Studio
 
