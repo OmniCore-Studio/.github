@@ -95,7 +95,7 @@ const omniCoreStudio = {
 ### Rejoindre la ruche ?
 
 [![Ajouter OmniHive](https://img.shields.io/badge/➕%20Ajouter%20OmniHive-FEC200?style=for-the-badge&logoColor=black)](https://omnihive.fr)
-[![Discord](https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/omnihive)
+[![Discord](https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kzGvxDPWzH)
 
 <sub>📜 <a href="https://omnihive.fr/discord/privacy">Confidentialité</a> · <a href="https://omnihive.fr/discord/terms">Conditions d'utilisation</a></sub>
 
