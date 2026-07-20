@@ -48,9 +48,9 @@ const omniCoreStudio = {
 | 🐝 **[OmniHive](https://omnihive.fr)** | Bot Discord | `🟢 Live` | Notre bot phare : modération, auto-mod, tickets, dashboard web, multilingue. |
 | 🧪 **OmniLab** | Bot de test | `🔵 Bêta` | Le laboratoire d'OmniHive — on y valide chaque nouveauté avant la prod. |
 | 🚛 **[Dutch Horizon Club](https://dhclub.eu)** | Bot VTC ETS2/ATS | `🟢 Live` | Bot sur-mesure pour une communauté de camionneurs virtuels : convois, livraisons, classements. |
-| 🚛 **Duтch Hσrizσи Beta** | Bot de test | Bot VTC ETS2/ATS | ``🔵 Bêt` | Bot sur-mesure pour une communauté de camionneurs virtuels : convois, livraisons, classements. |
+| 🚛 **Duтch Hσrizσи Beta** | Bot de test | Bot VTC ETS2/ATS | `🔵 Bêta` | Bot sur-mesure pour une communauté de camionneurs virtuels : convois, livraisons, classements. |
 | 🔘 **[Horizon Dispatch](https://hdispatch.eu/)** | `🟢 Live` | Il réunit bot Discord, dashboard web et tracker de conduite pour gérer vos chauffeurs, vos statistiques et vos partenariats — le tout au même endroit. |
-| 🔘 **HDispαтch Lαb** | Bot de test | Bot VTC ETS2/ATS | ``🔵 Bêt` | Bot sur-mesure pour une communauté de camionneurs virtuels : convois, livraisons, classements. |
+| 🔘 **HDispαтch Lαb** | Bot de test | Bot VTC ETS2/ATS | `🔵 Bêta` | Bot sur-mesure pour une communauté de camionneurs virtuels : convois, livraisons, classements. |
 
 ---
 
